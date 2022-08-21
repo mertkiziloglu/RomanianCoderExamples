@@ -6,5 +6,5 @@ import rc.bootsecurity.model.User;
 
 @Repository
 public interface UserRepository extends JpaRepository<User, Long> {
-    User findByUsername(String username);
+    User findByUsername(String username); //kullanici bulma
 }
