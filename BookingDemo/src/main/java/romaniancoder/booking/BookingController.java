@@ -19,7 +19,7 @@ public class BookingController {
 
     private BookingRepository bookingRepository;
 
-    @Autowired
+    @Autowired // data ile auotwired gerek kalmadan direkt olarak isleme devam edebiliyorsun
     public BookingController(BookingRepository bookingRepository){
         this.bookingRepository = bookingRepository;
     }

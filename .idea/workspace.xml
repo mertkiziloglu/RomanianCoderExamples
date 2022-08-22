@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="daf86488-b08f-497b-b1d7-fdefd57ff2ce" name="Changes" comment="project setup in meroot branch">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="daf86488-b08f-497b-b1d7-fdefd57ff2ce" name="Changes" comment="reposiitpry">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +122,8 @@
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;7de1e6dbcc8ec4fc581be2d55dc975df&quot;
   }
 }</component>
   <component name="RunManager" selected="Application.Main">
@@ -284,11 +285,13 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+      <changelist id="daf86488-b08f-497b-b1d7-fdefd57ff2ce" name="Changes" comment="project setup in meroot branch" />
       <created>1658144933069</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1658144933069</updated>
       <workItem from="1658144935398" duration="1208000" />
+      <workItem from="1661114917000" duration="492000" />
     </task>
     <task id="LOCAL-00001" summary="project setup in meroot branch">
       <created>1658148888907</created>
@@ -304,7 +307,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658148926785</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="reposiitpry">
+      <created>1661115031096</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1661115031096</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -353,7 +363,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="project setup in meroot branch" />
-    <option name="LAST_COMMIT_MESSAGE" value="project setup in meroot branch" />
+    <MESSAGE value="reposiitpry" />
+    <option name="LAST_COMMIT_MESSAGE" value="reposiitpry" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/romaniancoder/networking/udp/unicast/simple/Main.java" />
