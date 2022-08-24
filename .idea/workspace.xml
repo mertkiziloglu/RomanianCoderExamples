@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="daf86488-b08f-497b-b1d7-fdefd57ff2ce" name="Changes" comment="booking">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="daf86488-b08f-497b-b1d7-fdefd57ff2ce" name="Changes" comment="work space" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -293,7 +291,7 @@
       <workItem from="1658144935398" duration="1208000" />
       <workItem from="1661114917000" duration="492000" />
       <workItem from="1661172252416" duration="486000" />
-      <workItem from="1661282320916" duration="599000" />
+      <workItem from="1661282320916" duration="730000" />
     </task>
     <task id="LOCAL-00001" summary="project setup in meroot branch">
       <created>1658148888907</created>
@@ -323,7 +321,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661172367144</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="work space">
+      <created>1661284615298</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1661284615298</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -374,7 +379,8 @@
     <MESSAGE value="project setup in meroot branch" />
     <MESSAGE value="reposiitpry" />
     <MESSAGE value="booking" />
-    <option name="LAST_COMMIT_MESSAGE" value="booking" />
+    <MESSAGE value="work space" />
+    <option name="LAST_COMMIT_MESSAGE" value="work space" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/romaniancoder/networking/udp/unicast/simple/Main.java" />

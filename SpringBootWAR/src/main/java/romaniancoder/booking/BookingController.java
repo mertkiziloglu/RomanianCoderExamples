@@ -25,9 +25,9 @@ public class BookingController {
 
     @PostMapping(value = "/create")
     public List<HotelBooking> create(@RequestBody HotelBooking hotelBooking) {
-        bookingRepository.save(hotelBooking);
+        bookingRepository.save(hotelBooking); //yeni booking alip onu kaydediyor sonrasinda ise
 
-        return bookingRepository.findAll();
+        return bookingRepository.findAll(); // find all ile repositoryde kaydedilmisleri geri getiriyor
     }
 
     @PostMapping(value = "/delete/{id}")
